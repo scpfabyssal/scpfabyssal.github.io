@@ -20,5 +20,8 @@ callouts:
   information:
     title: Information
     color: blue
+
+    
 last_edit_timestamp: true
+search_enabled: false
 
