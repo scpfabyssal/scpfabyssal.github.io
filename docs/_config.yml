@@ -1,7 +1,7 @@
 title: Abyssal Website
 description: Abyssal Website
 remote_theme: just-the-docs/just-the-docs
-remote_theme: pdmosses/just-the-docs@callouts
+
 
 logo: "/images/logos/foundation-logo.png"
 footer_content: "Copyright &copy; 2020-2024 Agent's SCP Foundation."
