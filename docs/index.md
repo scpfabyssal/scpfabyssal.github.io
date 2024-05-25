@@ -1,35 +1,25 @@
 ---
+layout: default
 title: Home
-layout: home
+has_children: true
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Introduction
+The Universal Guidelines (the website you are viewing now) holds all information that is universal to the Foundation. Its purpose is to lead and aid anyone within the community, as well as provide ground rules for all personnel and departments.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Each and every policy stated on this website is considered to be of the utmost importance and therefore must be followed at all times. Other sets of guidelines within the Foundation may not overrule the policies stated here within. Only the O5 Council have authorised to make modifications to this website provided appropriate input has been attained beforehand.
 
-More specifically, the created site:
+It is mandatory for all members to be fully aware of this website's content. As a result, this website is public knowledge.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+Everything and anything present on this website may be quoted and accepted as accurate, assuming it is the most up-to-date version.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+# Foreword
+The Special Containment Procedures Foundation is a marvellous place to be a member of - there is no doubt about that. Still, it is necessary to set some ground rules for all members to follow.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Imagine a group without any laws, guidelines, or regulations. At first, it may seem like a positive feature; if there are no rules, then I am not conditioned, thus making me completely free. Needless to say, there is another consequence to such an environment, an aspect most do not take into account; there are no rules for me, but the others are not conditioned either. If they are completely free, then a conflict between my freedom and their freedom is bound to happen.
 
-To get started with creating a site, simply:
+This is why it is vital for the rules, guidelines, and information outlined within this website to be followed at all times. While these rules may seem like a lot to take in at first, they are easy to get used to. They are not set out to harm your experience being a member of the Foundation, but is it due to the fact all community members should be getting along in harmony and complete duties to a high level of quality. Those who choose to simply ignore information outlined within this website will be subject to disciplinary action as a result. Stating that you just “did not know” is not a valid excuse.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+{: .information }
+It is highly advised you check this document on a regular basis as any content within may be updated with or without notice.
