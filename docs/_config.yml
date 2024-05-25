@@ -2,7 +2,7 @@ title: Abyssal Website
 description: Abyssal Website
 remote_theme: just-the-docs/just-the-docs
 
-
+color_scheme: scpf
 logo: "/images/logos/foundation-logo.png"
 footer_content: "Copyright &copy; 2020-2024 Agent's SCP Foundation."
 
@@ -23,7 +23,6 @@ callouts:
     title: Information
     color: blue
 
-    color_scheme: scpf
 last_edit_timestamp: true
 search_enabled: false
 
