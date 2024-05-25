@@ -2,13 +2,11 @@ title: Abyssal Website
 description: Abyssal Website
 remote_theme: just-the-docs/just-the-docs
 
-color_scheme: scpf
+color_scheme: dark
 logo: "/images/logos/foundation-logo.png"
 footer_content: "Copyright &copy; 2020-2024 Agent's SCP Foundation."
 
 
-
-url: https://just-the-docs.github.io
 callouts:
   important:
     title: Important
