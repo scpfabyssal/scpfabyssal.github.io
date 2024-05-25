@@ -23,7 +23,7 @@ callouts:
     title: Information
     color: blue
 
-    
+    color_scheme: scpf
 last_edit_timestamp: true
 search_enabled: false
 
