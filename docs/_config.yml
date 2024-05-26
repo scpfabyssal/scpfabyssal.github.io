@@ -23,7 +23,7 @@ callouts:
     color: blue
 
 last_edit_timestamp: true
-search_enabled: false
+search_enabled: true
 
 gh_edit_link: true
 gh_edit_link_text: "Edit Docs"
