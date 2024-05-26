@@ -2,7 +2,7 @@ title: Abyssal Website
 description: Abyssal Website
 remote_theme: just-the-docs/just-the-docs
 
-url: https://warpedentrance.github.io/SCPFABYSSAL/
+url: https://scpfabyssal.github.io/
 logo: "docs/images/logos/logos/foundation-logo.png"
 footer_content: "Copyright &copy; 2020-2024 Agent's SCP Foundation."
 color_scheme: scpf
@@ -27,7 +27,7 @@ search_enabled: false
 
 gh_edit_link: true
 gh_edit_link_text: "Edit Docs"
-gh_edit_repository: "https://github.com/WarpedEntrance/SCPFABYSSAL"
+gh_edit_repository: "https://github.com/scpfabyssal/scpfabyssal.github.io"
 gh_edit_branch: "main"
 gh_edit_source: docs
 gh_edit_view_mode: "edit"
