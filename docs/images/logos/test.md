@@ -1,2 +1,2 @@
 Testing Area for MaD 
-![Mad Logo][docs/images/logos/mad-logo.pmg]
+![Mad Logo][docs/images/logos/mad-logo.png]
